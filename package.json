@@ -1,0 +1,19 @@
+{
+  "name": "gg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel index.html --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "parcel": "^2.12.0"
+  },
+  "devDependencies": {
+    "boostrap": "^2.0.0",
+    "prettier-eslint": "^16.3.0"
+  }
+}
